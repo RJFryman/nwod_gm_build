@@ -1,0 +1,9 @@
+Virtue.create([
+  {name:'Charity'},
+  {name:'Faith'},
+  {name:'Fortitude'},
+  {name:'Hope'},
+  {name:'Justice'},
+  {name:'Prudence'},
+  {name:'Temperance'}
+])
