@@ -1,0 +1,9 @@
+Vice.create([
+  {name:'Envy'},
+  {name:'Gluttony'},
+  {name:'Greed'},
+  {name:'Lust'},
+  {name:'Pride'},
+  {name:'Sloth'},
+  {name:'Wrath'}
+])
